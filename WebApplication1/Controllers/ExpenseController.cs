@@ -30,7 +30,8 @@ namespace WebApplication1.Controllers
             var items = new[]
                 {
                     new {id = "1" , name = "Cable"},
-                    new {id = "2" , name= "Movies"}
+                    new {id = "2" , name= "Movies"},
+                    new {id = "3" , name= "Utility"},
                 };
             
             return items;
